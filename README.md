@@ -20,27 +20,28 @@
 16. `11:15 - 11:25` 📦 [Maquetación de container de Cards usando CSS Grid](#-maquetación-de-container-de-cards-usando-css-grid)
 17. `11:25 - 11:35` 🧐 [Actividad: ¿Qué usarías: Flexbox o CSS Grid?](#-actividad-qué-usarías-flexbox-o-css-grid)
 18. `11:35 - 11:40` ❓ [Q&A](#-qa-1)
-19. `11:40 - 11:45` 😫 [Despedida](#-actividad-qué-usarías-flexbox-o-css-grid)
+19. `11:40 - 11:41` 📄 [Documentación recomendada](#-documentación-recomendada)
+20. `11:41 - 11:42` 🤓 [Mis cursos recomendados](#-mis-cursos-recomendados)
+21. `11:42 - 11:43` 🔗 [Cheat Sheets](#-cheat-sheets)
+22. `11:43 - 11:45` 😫 [Despedida](#-despedida)
 
 ## 👋🏼 Llegada
+
+↑ [Volver a la agenda](#-nuestra-agenda)
+
 ## 😄 Bienvenida: Para quién es este taller y código de conducta
+
+↑ [Volver a la agenda](#-nuestra-agenda)
+
 ## 👀 Visión general del taller y preguntas iniciales
+
+↑ [Volver a la agenda](#-nuestra-agenda)
+
 ## 🍡 Repaso general de las propiedades básicas de Flexbox
+
+↑ [Volver a la agenda](#-nuestra-agenda)
+
 ## 🌱 Explicación teórica y práctica de la propiedad flex-grow
-## 👖 Explicación teórica y práctica de la propiedad flex-shrink
-## 📏 Explicación teórica y práctica de la propiedad flex-basis
-## 💥 Explicación teórica y práctica de la propiedad flex
-## ❓ Q&A
-## 📇 Maquetación de componente de Card usando la propiedad flex-grow
-## 👍🏼 Maquetación de componente de Feedback usando la propiedad flex]
-## 🎮 Kahoot
-## 🥪 Break time
-## 🍱 Repaso general de propiedades básicas de CSS Grid
-## 🩲 Explicación teórica y práctica del valor auto-fit y auto-fill
-## 📦 Maquetación de container de Cards usando CSS Grid
-## 🧐 Actividad: ¿Qué usarías: Flexbox o CSS Grid?
-## ❓ Q&A
-## 😫 Despedida
 
 ✨ [Código interactivo aquí · Solo propiedad display y valor flex en el padre](https://codepen.io/teffcode/pen/jOpzOba)
 
@@ -48,43 +49,101 @@
 
 ✨ [Código interactivo aquí · flex-grow: 1, flex-grow: 3 y flex-grow: 3  en los ítems](https://codepen.io/teffcode/pen/VwBXEPG)
 
+↑ [Volver a la agenda](#-nuestra-agenda)
+
+## 👖 Explicación teórica y práctica de la propiedad flex-shrink
+
 ✨ [Código interactivo aquí · flex-grow & flex-shrink](https://codepen.io/teffcode/pen/vYaRVxQ)
+
+↑ [Volver a la agenda](#-nuestra-agenda)
+
+## 📏 Explicación teórica y práctica de la propiedad flex-basis
 
 ✨ [Código interactivo aquí · flex-grow, flex-shrink & flex-basis: 50%](https://codepen.io/teffcode/pen/yLqKREM)
 
 ✨ [Código interactivo aquí · flex-grow, flex-shrink & flex-basis: 100%](https://codepen.io/teffcode/pen/BaPrqON)
 
+↑ [Volver a la agenda](#-nuestra-agenda)
+
+## 💥 Explicación teórica y práctica de la propiedad flex
+
 ✨ [Código interactivo aquí · flex: 1](https://codepen.io/teffcode/pen/oNMqaPQ)
+
+↑ [Volver a la agenda](#-nuestra-agenda)
+
+## ❓ Q&A
+
+↑ [Volver a la agenda](#-nuestra-agenda)
+
+## 📇 Maquetación de componente de Card usando la propiedad flex-grow
 
 ✨ [Código interactivo aquí · Card con flex-grow](https://codepen.io/teffcode/pen/WNKzaVR)
 
+↑ [Volver a la agenda](#-nuestra-agenda)
+
+## 👍🏼 Maquetación de componente de Feedback usando la propiedad flex]
+
 ✨ [Código interactivo aquí · Card + Feedback con flex: 1 & animation](https://codepen.io/teffcode/pen/wvxmQYr)
+
+↑ [Volver a la agenda](#-nuestra-agenda)
+
+## 🎮 Kahoot
+
+↑ [Volver a la agenda](#-nuestra-agenda)
+
+## 🥪 Break time
+
+↑ [Volver a la agenda](#-nuestra-agenda)
+
+## 🍱 Repaso general de propiedades básicas de CSS Grid
+
+↑ [Volver a la agenda](#-nuestra-agenda)
+
+## 🩲 Explicación teórica y práctica del valor auto-fit y auto-fill
+
+↑ [Volver a la agenda](#-nuestra-agenda)
+
+## 📦 Maquetación de container de Cards usando CSS Grid
 
 ✨ [Código interactivo aquí · Contenedor de cards con CSS Grid](https://codepen.io/teffcode/pen/KKBRqpm)
 
-## Documentación recomendada
+↑ [Volver a la agenda](#-nuestra-agenda)
 
-✨ [A Complete Guide to Flexbox por CSS Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+## 🧐 Actividad: ¿Qué usarías: Flexbox o CSS Grid?
 
-✨ [A Complete Guide to CSS Grid por CSS Tricks](https://css-tricks.com/snippets/css/complete-guide-grid/)
+↑ [Volver a la agenda](#-nuestra-agenda)
 
-✨ [Artículo: Profundizando en la propiedad Flex de Ahmad Shadeed](https://ishadeed.com/article/css-flex-property/)
+## ❓ Q&A
 
-✨ [Conceptos de Flexbox por Samantha Ming](https://www.samanthaming.com/flexbox30/)
+↑ [Volver a la agenda](#-nuestra-agenda)
 
-## Mis cursos recomendados
+## 📄 Documentación recomendada
 
-✨ [Curso de Frontend Developer](https://platzi.com/cursos/frontend-developer/)
+* [A Complete Guide to Flexbox por CSS Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
-✨ [Curso Práctico de Frontend Developer](https://platzi.com/cursos/frontend-developer-practico/)
+* [A Complete Guide to CSS Grid por CSS Tricks](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
-✨ [Curso Práctico de Maquetación y Animaciones con CSS](https://platzi.com/cursos/animaciones-css-practico/)
+* [Artículo: Profundizando en la propiedad Flex de Ahmad Shadeed](https://ishadeed.com/article/css-flex-property/)
 
-✨ [Curso Profesional de CSS Grid Layout](https://platzi.com/cursos/css-grid-layout/)
+* [Conceptos de Flexbox por Samantha Ming](https://www.samanthaming.com/flexbox30/)
 
-✨ [Curso de Diseño Web con CSS Grid y Flexbox](https://platzi.com/cursos/flexbox-css-grid/)
+↑ [Volver a la agenda](#-nuestra-agenda)
 
-## Cheat Sheets
+## 🤓 Mis cursos recomendados
+
+* [Curso de Frontend Developer](https://platzi.com/cursos/frontend-developer/)
+
+* [Curso Práctico de Frontend Developer](https://platzi.com/cursos/frontend-developer-practico/)
+
+* [Curso Práctico de Maquetación y Animaciones con CSS](https://platzi.com/cursos/animaciones-css-practico/)
+
+* [Curso Profesional de CSS Grid Layout](https://platzi.com/cursos/css-grid-layout/)
+
+* [Curso de Diseño Web con CSS Grid y Flexbox](https://platzi.com/cursos/flexbox-css-grid/)
+
+↑ [Volver a la agenda](#-nuestra-agenda)
+
+## 🔗 Cheat Sheets
 
 | [CSS Grid Cheat Sheet: Contenedores (Parte 1) por @teffcode](https://platzi.com/blog/css-grid-cheat-sheet-contenedores/) |
 |--|
@@ -94,10 +153,6 @@
 | [CSS Grid Cheat Sheet: Items (Parte 2) por @teffcode](https://platzi.com/blog/css-grid-cheat-sheet-items/) |
 |--|
 | <img width="500" src="https://user-images.githubusercontent.com/25943655/214716756-15c0178e-32bd-4a9b-8696-4e68cb42b483.png" /> |
-
-| [A Practical Cheat Sheet for CSS Flexbox (Containers) por The Voracious Developer](https://voracious.dev/blog/a-practical-cheat-sheet-for-css-flexbox) |
-|--|
-| <img width="500" src="https://user-images.githubusercontent.com/25943655/214725798-21a2258b-f5b0-4292-8659-0c1fd493061b.png" /> |
 
 | [Tweet por @NikkiSiapno](https://twitter.com/NikkiSiapno/status/1554429773866307586?s=20&t=j6f55r4bPZWHj2C1pNdm-Q) |
 |--|
@@ -111,4 +166,12 @@
 |--|
 | <img width="500" src="https://user-images.githubusercontent.com/25943655/214717096-18e84ceb-ecec-4223-a027-84c53faa676a.png" /> |
 
+| [A Practical Cheat Sheet for CSS Flexbox (Containers) por The Voracious Developer](https://voracious.dev/blog/a-practical-cheat-sheet-for-css-flexbox) |
+|--|
+| <img width="500" src="https://user-images.githubusercontent.com/25943655/214725798-21a2258b-f5b0-4292-8659-0c1fd493061b.png" /> |
 
+↑ [Volver a la agenda](#-nuestra-agenda)
+
+## 😫 Despedida
+
+↑ [Volver a la agenda](#-nuestra-agenda)
