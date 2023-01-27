@@ -27,19 +27,34 @@
 
 ## 👋🏼 Llegada
 
+En este espacio estaremos esperando 5 minuticos mientras los y las estudiantes se unen a la llamada. Pasados estos 5 minutos daremos inicio al taller.
+
 ↑ [Volver a la agenda](#-nuestra-agenda)
 
 ## 😄 Bienvenida: Para quién es este taller y código de conducta
+
+Hola ! Te doy la bienvenida a este taller de Flexbox + CSS Grid en donde aprenderemos a usar la propiedad `flex` de Flexbox, los valores `auto-fit` y `auto-fill` de CSS Grid y a diferenciar cuándo usar Flexbox y cuándo usar CSS Grid en casos de la vida real.
+
+Los requerimientos para este taller son:
+* Conocimientos básicos en CSS
+* Conocimientos generales de qué es y cómo funciona Flexbox
+* Conocimientos generales de qué es y cómo funciona CSS Grid
+
+Por esta razón, este taller está dirigido a estudiantes de Platzi que completaron el [Curso de Frontend Developer](https://platzi.com/cursos/frontend-developer/) y/o el [Curso Práctico de Frontend Developer](https://platzi.com/cursos/frontend-developer-practico/). Por supuesto, responderemos dudas generales de estas dos tecnologías: Flexbox y CSS Grid.
+
+Antes de comenzar con este taller te invito a que leas el [código de conducta de Platzi](https://platzi.com/blog/codigo-conducta-platzi/) ya que es de vital importancia que en este taller seamos buenas personas, respetemos la diversidad y generemos una conversación positiva.
 
 ↑ [Volver a la agenda](#-nuestra-agenda)
 
 ## 👀 Visión general del taller y preguntas iniciales
 
+En este espacio hablaremos de la agenda para que tengamos un panorama más amplio de lo que veremos en este taller y también, responderemos algunas preguntas iniciales.
+
 ↑ [Volver a la agenda](#-nuestra-agenda)
 
 ## 🍡 Repaso general de las propiedades básicas de Flexbox
 
-* [A Complete Guide to Flexbox por CSS Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+Guía de propiedades y valores: [A Complete Guide to Flexbox por CSS Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 ↑ [Volver a la agenda](#-nuestra-agenda)
 
@@ -87,6 +102,8 @@
 
 ## ❓ Q&A
 
+En este espacio responderemos preguntas acerca de la propiedad `flex` antes de comenzar con la maquetación de la Card usando esta propiedad.
+
 ↑ [Volver a la agenda](#-nuestra-agenda)
 
 ## 📇 Maquetación de componente de Card usando la propiedad flex-grow
@@ -111,17 +128,23 @@
 
 ## 🥪 Break time
 
+En este espacio tendremos 5 minuticos de tiempo libre para despejarnos y volver con la segunda parte del taller.
+
 ↑ [Volver a la agenda](#-nuestra-agenda)
 
 ## 🍱 Repaso general de propiedades básicas de CSS Grid
 
-* [A Complete Guide to CSS Grid por CSS Tricks](https://css-tricks.com/snippets/css/complete-guide-grid/)
+Guía de propiedades y valores: [A Complete Guide to CSS Grid por CSS Tricks](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
 ↑ [Volver a la agenda](#-nuestra-agenda)
 
 ## 🩲 Explicación teórica y práctica del valor auto-fit y auto-fill
 
-* [Auto-Sizing Columns in CSS Grid: `auto-fill` vs `auto-fit` por Sara Soueidan](https://css-tricks.com/auto-sizing-columns-css-grid-auto-fill-vs-auto-fit/)
+*"`auto-fill` RELLENA la fila con tantas columnas como puedan caber. Por lo tanto, crea columnas implícitas cada vez que cabe una nueva columna, porque está tratando de LLENAR la fila con tantas columnas como sea posible. Las columnas recién agregadas pueden estar vacías, pero seguirán ocupando un espacio designado en la fila."*
+
+*"`auto-fit` AJUSTA las columnas ACTUALMENTE DISPONIBLES en el espacio al expandirlas para que ocupen cualquier espacio disponible. El navegador hace eso después de LLENAR ese espacio adicional con columnas adicionales (como con auto-fill) y luego colapsar las vacías."*
+
+Explicación con ejemplos, aquí: [Auto-Sizing Columns in CSS Grid: `auto-fill` vs `auto-fit` por Sara Soueidan](https://css-tricks.com/auto-sizing-columns-css-grid-auto-fill-vs-auto-fit/)
 
 ↑ [Volver a la agenda](#-nuestra-agenda)
 
@@ -138,6 +161,8 @@
 ↑ [Volver a la agenda](#-nuestra-agenda)
 
 ## ❓ Q&A
+
+En este espacio responderemos preguntas acerca de Flexbox y/o CSS Grid.
 
 ↑ [Volver a la agenda](#-nuestra-agenda)
 
@@ -197,5 +222,9 @@
 ↑ [Volver a la agenda](#-nuestra-agenda)
 
 ## 😫 Despedida
+
+Hemos llegado al final de este taller. Espero lo hayas disfrutado bastante. Luego de este taller, recibirás un correo con un pequeño formulario para que me dejes tu feedback y sugerencias de temas para próximos talleres.
+
+Nos vemos pronto !
 
 ↑ [Volver a la agenda](#-nuestra-agenda)
