@@ -1,4 +1,4 @@
-# ⭐️ Taller de Flexbox + CSS Grid ⭐️
+# ⭐️ Taller de Flexbox + CSS Grid con Teffcode ⭐️
 
 ## 📝 Nuestra agenda:
 
