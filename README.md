@@ -39,13 +39,21 @@
 
 ## 🍡 Repaso general de las propiedades básicas de Flexbox
 
+* [A Complete Guide to Flexbox por CSS Tricks](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
 ↑ [Volver a la agenda](#-nuestra-agenda)
 
 ## 🌱 Explicación teórica y práctica de la propiedad flex-grow
 
+![1](https://user-images.githubusercontent.com/25943655/215044531-012e4aab-4016-4a3d-b061-11decb4a41fc.png)
+
 ✨ [Código interactivo aquí · Solo propiedad display y valor flex en el padre](https://codepen.io/teffcode/pen/jOpzOba)
 
+![2](https://user-images.githubusercontent.com/25943655/215044008-acf84dd4-a946-419a-80aa-1a8a43008d71.png)
+
 ✨ [Código interactivo aquí · flex-grow: 1 en los ítems](https://codepen.io/teffcode/pen/yLqKRaJ)
+
+![3](https://user-images.githubusercontent.com/25943655/215046467-3da09da0-7955-475e-942f-9e9ef5d6a028.png)
 
 ✨ [Código interactivo aquí · flex-grow: 1, flex-grow: 3 y flex-grow: 3  en los ítems](https://codepen.io/teffcode/pen/VwBXEPG)
 
@@ -53,11 +61,15 @@
 
 ## 👖 Explicación teórica y práctica de la propiedad flex-shrink
 
+![4](https://user-images.githubusercontent.com/25943655/215048914-5be723e3-b7b1-427a-91a0-40c6d8e86810.png)
+
 ✨ [Código interactivo aquí · flex-grow & flex-shrink](https://codepen.io/teffcode/pen/vYaRVxQ)
 
 ↑ [Volver a la agenda](#-nuestra-agenda)
 
 ## 📏 Explicación teórica y práctica de la propiedad flex-basis
+
+![5](https://user-images.githubusercontent.com/25943655/215050771-5f1e55e2-1fd0-4e44-aaf8-90650cb576df.png)
 
 ✨ [Código interactivo aquí · flex-grow, flex-shrink & flex-basis: 50%](https://codepen.io/teffcode/pen/yLqKREM)
 
@@ -66,6 +78,8 @@
 ↑ [Volver a la agenda](#-nuestra-agenda)
 
 ## 💥 Explicación teórica y práctica de la propiedad flex
+
+![6](https://user-images.githubusercontent.com/25943655/215052565-d94b44e3-182b-464b-b9a9-9f3bf10d6e8d.png)
 
 ✨ [Código interactivo aquí · flex: 1](https://codepen.io/teffcode/pen/oNMqaPQ)
 
@@ -77,11 +91,15 @@
 
 ## 📇 Maquetación de componente de Card usando la propiedad flex-grow
 
+![7](https://user-images.githubusercontent.com/25943655/215053228-8b67d4ad-9de6-4a9e-a823-6f2b1729564e.png)
+
 ✨ [Código interactivo aquí · Card con flex-grow](https://codepen.io/teffcode/pen/WNKzaVR)
 
 ↑ [Volver a la agenda](#-nuestra-agenda)
 
 ## 👍🏼 Maquetación de componente de Feedback usando la propiedad flex]
+
+![8](https://user-images.githubusercontent.com/25943655/215053787-d4329ee3-7a21-4c63-9282-2db862f601f9.png)
 
 ✨ [Código interactivo aquí · Card + Feedback con flex: 1 & animation](https://codepen.io/teffcode/pen/wvxmQYr)
 
@@ -97,13 +115,19 @@
 
 ## 🍱 Repaso general de propiedades básicas de CSS Grid
 
+* [A Complete Guide to CSS Grid por CSS Tricks](https://css-tricks.com/snippets/css/complete-guide-grid/)
+
 ↑ [Volver a la agenda](#-nuestra-agenda)
 
 ## 🩲 Explicación teórica y práctica del valor auto-fit y auto-fill
 
+* [Auto-Sizing Columns in CSS Grid: `auto-fill` vs `auto-fit` por Sara Soueidan](https://css-tricks.com/auto-sizing-columns-css-grid-auto-fill-vs-auto-fit/)
+
 ↑ [Volver a la agenda](#-nuestra-agenda)
 
 ## 📦 Maquetación de container de Cards usando CSS Grid
+
+![9](https://user-images.githubusercontent.com/25943655/215055170-4a077ee4-2bc5-4bda-9858-ebd46e58b004.png)
 
 ✨ [Código interactivo aquí · Contenedor de cards con CSS Grid](https://codepen.io/teffcode/pen/KKBRqpm)
 
